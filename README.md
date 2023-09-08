@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **amesbahi/amesbahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I'm Alborz.
+- 🎯 I'm interested in improving website performance and user experience through front-end web development.
+- 📚 I'm currently expanding my skills in ReactJS and TypeScript.
+- 🤝 I'm looking to collaborate on projects that focus on enhancing web performance and usability. Reach out if you want to talk tech or careers!
+
