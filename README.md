@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I'm Alborz.
-- 🎯 I'm interested in improving website performance and user experience through front-end web development.
-- 📚 I'm currently expanding my skills in ReactJS and TypeScript.
-- 🤝 I'm looking to collaborate on projects that focus on enhancing web performance and usability. Reach out if you want to talk tech or careers!
-
+- 👋 Hi, I'm Alborz. I'm a passionate full-stack developer with 12 years of industry experience. I enjoy building robust, user-focused applications using modern technologies like ReactJS, Next.js, TypeScript, and Node.js. I specialize in performance optimization, user experience enhancement, modernizing legacy systems, and leading complex integrations. I bring curiosity, collaboration, and a growth mindset to every project.
+- 🌍 I'm based in Washington, DC
+- 🚀 I'm currently working on [Ghosted Fix, an app to help improve people's dating lives](http://ghostedfix.com)
+- 🧠 I'm currently learning the latest trends in AI technologies
+- 👥 I'm looking to collaborate on interesting projects. Reach out if you want to talk tech or careers!
